@@ -69,4 +69,18 @@ We can create an Unordered list by
 - There are many symbols to use such as :
     + A Plus sign + 
     * An Asterisk sign *
-    - Or A Dash sign
+    - Or A Dash sign -
+
+We can add block quotes between lists 
+
+# Code 
+
+1. We can add code blocks in between the list : 
+
+          <html>
+               <head>
+               <title>  This is a code block in Md file </title>
+               </head>
+          </html>
+2. Like the above code block, note that we need two tab spaces for md file to know that this is a code block and not to be rendered as code.
+
